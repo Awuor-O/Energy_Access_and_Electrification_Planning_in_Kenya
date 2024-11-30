@@ -1,5 +1,8 @@
 # Energy Access and Electrification Planning in Kenya
 
+![Energy_Access_and_Electrification_Planning_in_Kenya](https://github.com/user-attachments/assets/b4d28b7b-418c-4b54-ad95-e43b78e00d72)
+
+
 ### Introduction
 
 The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access across the country, resulting in **76%** of Kenyan households gaining electricity access. This initiative significantly boosted rural economic resilience in Kenya. However, since its conclusion in 2022, the country has seen a notable decline in electricity access, particularly in generation capacity and reliability.
