@@ -5,12 +5,12 @@
 
 ### Introduction
 
-The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access across the country, resulting in **76%** of Kenyan households gaining electricity access. This initiative significantly boosted rural economic resilience in Kenya. However, since its conclusion in 2022, the country has seen a notable decline in electricity access, particularly in generation capacity and reliability.
+The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access nationwide, enabling about **76%** of Kenyan households to gain access to electricity. This initiative played a crucial role in rural economic resilience. However, since its conclusion in 2022, the country has experienced a significant decline in electricity access, particularly in terms of generation capacity and reliability.
 
 ![image](https://github.com/user-attachments/assets/a878b19a-374c-4ede-8048-60fdab1aa26f)
 
 
-This project supports the World Bank's Mission 300, which aims to connect 300 million people in Sub-Saharan Africa to electricity by 2030. By leveraging data-driven insights, this project aims to guide energy planning and distribution in Kenya **to scale up connectivity** - a critical factor in addressing the country’s development needs.
+This project aligns with the World Bank's Mission 300, which aims to connect electricity to 300 million people in Sub-Saharan Africa by 2030. By leveraging data-driven insights, it aims to guide energy planning and distribution in Kenya **to scale up connectivity** - a critical factor in addressing the country’s development needs.
 
 ### Problem Statement
 
