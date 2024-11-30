@@ -5,7 +5,7 @@
 
 ### Introduction
 
-The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access nationwide, enabling about **76%** of Kenyan households to gain access to electricity. This initiative played a crucial role in rural economic resilience. However, since its conclusion in 2022, the country has experienced a significant decline in electricity access, particularly in terms of generation capacity and reliability.
+The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access nationwide, enabling about **76%** of Kenyan households to gain access to electricity. This initiative played a crucial role in strengthening rural economic resilience. However, since its conclusion in 2022, the country has experienced a significant decline in electricity access, particularly in terms of generation capacity and reliability.
 
 ![image](https://github.com/user-attachments/assets/a878b19a-374c-4ede-8048-60fdab1aa26f)
 
