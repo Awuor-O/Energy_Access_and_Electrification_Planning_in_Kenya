@@ -5,7 +5,7 @@
 
 ### Introduction
 
-The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access nationwide, enabling about **76%** of Kenyan households to gain access to electricity. This initiative played a crucial role in strengthening rural economic resilience. However, since its conclusion in 2022, the country has experienced a significant decline in electricity access, particularly in terms of generation capacity and reliability.
+The **Rural Electrification Programme** in Kenya aimed to achieve universal electricity access nationwide, enabling about **76%** of Kenyan households to gain access to electricity. This initiative played a crucial role in strengthening rural economic resilience by providing households and businesses with reliable energy access, creating opportunities for income-generating activities, enhancing productivity, and supporting essential services such as education and healthcare. It also spurred the growth of small and medium enterprises, facilitated agricultural value addition, and improved the overall quality of life, thereby reducing economic vulnerabilities in rural areas. However, since the programme's conclusion in 2022, the country has experienced a significant decline in electricity access, particularly in terms of generation capacity and reliability.
 
 ![image](https://github.com/user-attachments/assets/a878b19a-374c-4ede-8048-60fdab1aa26f)
 
@@ -18,7 +18,7 @@ Kenya’s population has been steadily increasing over the years. Notably, econo
 
 To address the challenges posed by Kenya’s growing population, rising unemployment, and high rates of rural-to-urban migration, the government must implement strategic, long-term economic interventions. 
 
-Prioritizing rural electrification and expanding energy access will stimulate local investments, promote the growth of small and medium-sized enterprises (SMEs), and enhance agricultural productivity through the adoption of advanced technologies. Most critically, fostering job creation within rural areas will drive sustained economic growth, increase household income, and build resilience within rural economie### s.
+Prioritizing rural electrification and expanding energy access will stimulate local investments, promote the growth of small and medium-sized enterprises (SMEs), and enhance agricultural productivity through the adoption of advanced technologies. Most critically, fostering job creation within rural areas will drive sustained economic growth, increase household income, and build resilience within rural economies.
 
 
 ### Objective
