@@ -21,7 +21,7 @@ Economic planning across all sectors, including electricity and energy access, h
 
 So, what long-term economic investments should the **Government of Kenya** prioritize, in collaboration with the **private sector** and **multilateral development institutions**, to effectively address the multifaceted challenges posed by the country’s rapidly growing population?
 
-One key priority is rural electrification and the expansion of energy access, which will stimulate local investments, promote the growth of small and medium-sized enterprises (SMEs), and enhance agricultural productivity through the adoption of advanced technologies. Most importantly, rural electrification will foster job creation in rural areas, drive sustained economic growth, increase household incomes, and strengthen the resilience of rural economies.
+One key priority is **rural electrification and the expansion of energy access**, which will stimulate local investments, promote the growth of small and medium-sized enterprises (SMEs), and enhance agricultural productivity through the adoption of advanced technologies. Most importantly, rural electrification will foster job creation in rural areas, drive sustained economic growth, increase household incomes, and strengthen the resilience of rural economies.
 
 
 ### Objective
