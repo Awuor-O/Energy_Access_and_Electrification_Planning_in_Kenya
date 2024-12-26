@@ -26,9 +26,9 @@ One key priority is **rural electrification and the expansion of energy access**
 
 ### Objective
 
-This project utilizes geospatial data for Kenya to support strategic objectives in wind renewable energy planning.
+This project leverages **Kenya’s geospatial data** to inform strategic decisions regarding the placement of wind renewable energy projects across the country, supporting efforts in electrification and energy planning.
 
-**Classification and clustering algorithms** were applied to identify areas with sparse grid infrastructure and high population density, to highlight regions where wind farms and wind microgrids could be feasible solutions. 
+**Classification and clustering deep learning algorithms** were applied to identify areas with sparse grid infrastructure and high population density, highlighting regions where wind farms and wind microgrids could be feasible solutions. 
 
 **Findings:**
 
