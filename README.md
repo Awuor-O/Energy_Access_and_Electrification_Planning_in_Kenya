@@ -14,7 +14,10 @@ Private sector investments in demand-based and reliable generation technologies 
 
 ### Problem Statement
 
-Kenya’s population has been steadily increasing over the years. Notably, economic planning has not kept pace with this rapid growth.  As a result, an annual estimate of 4.4% rural-urban migration occurs, driven largely by youth seeking employment. However, this migration may not yield stable opportunities, as the Federation of Kenya Employers (FKE) reports a high youth unemployment rate of 67%.
+Economic planning across all sectors, including electricity and energy access, has not kept pace with Kenya's rapid population growth. As a result, the country currently faces a youth unemployment rate of about 67%, according to the Federation of Kenya Employers (FKE). Furthermore, an estimated 4.4% annual rural-to-urban migration, primarily driven by unemployed youth seeking work, often results in unstable or nonexistent employment opportunities for this demographic.
+
+![image](https://github.com/user-attachments/assets/d04c8761-06e2-4fee-98c5-bf37aba71261)
+
 
 To address the challenges posed by Kenya’s growing population, rising unemployment, and high rates of rural-to-urban migration, the government must implement strategic, long-term economic interventions. 
 
