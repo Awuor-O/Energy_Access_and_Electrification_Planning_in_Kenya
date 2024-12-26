@@ -14,7 +14,7 @@ Private sector investments in demand-driven and reliable generation technologies
 
 ### Problem Statement
 
-Economic planning across all sectors, including electricity and energy access, has not kept pace with Kenya's rapid population growth. As a result, the country currently faces a youth unemployment rate of about 67%, according to the Federation of Kenya Employers (FKE). Furthermore, an estimated 4.4% annual rural-to-urban migration, primarily driven by unemployed youth seeking work, often results in unstable or nonexistent employment opportunities for this demographic.
+Economic planning across all sectors, including electricity and energy access, has not kept pace with Kenya's rapid population growth. As a result, the country currently faces a [youth unemployment rate of about 67%](https://www.fke-kenya.org/policy-issues/youth-employment?utm_source=chatgpt.com). Furthermore, an estimated [4.4% annual rural-to-urban migration](https://kippra.or.ke/unlocking-rural-areas-to-curb-rural-urban-migration-among-youth-in-kenya/?utm_source=chatgpt.com), primarily driven by unemployed youth seeking work, often results in unstable or nonexistent employment opportunities for this demographic.
 
 ![image](https://github.com/user-attachments/assets/d04c8761-06e2-4fee-98c5-bf37aba71261)
 
