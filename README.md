@@ -47,7 +47,7 @@ Regions identified as viable for these installations exhibited the following cha
 
 ### Recommendations
 
-From this analysis, two key points emerge; the steadily growing demand for electricity access and Kenya’s limited electricity generation and transmission. According to the data findings, Kenya stands out as a significant hotspot of wind renewable energy potential. Additionally, about 50% of the population living off-grid possesses the purchasing power for wind-powered renewables, not to mention with Kenya’s growing economy, this figure is likely to increase in the near future.  
+From this analysis, two key points emerge; the steadily growing demand for electricity access and Kenya’s limited electricity generation and transmission capacity. According to the data findings, Kenya stands out as a significant hotspot of wind renewable energy potential. Additionally, about 50% of the population living off-grid possess the purchasing power for wind-powered renewables, not to mention with Kenya’s growing economy, this figure is likely to increase in the near future.  
 
 Based on these findings and analyses, the following recommendations are proposed to address Kenya's energy access and electrification challenges while capitalizing on its wind energy potential:
 
