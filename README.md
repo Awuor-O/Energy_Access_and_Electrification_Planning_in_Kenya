@@ -37,13 +37,13 @@ Ideal locations for wind renewable energy were those with sparse grid infrastruc
 The algorithms classified regions into two distinct groups based on their **viability for wind renewable energy and wind-powered microgrid installations**.
 Regions identified as viable for these installations exhibited the following characteristics:
 
-* **Population density:** These areas are relatively densely populated, with an average of approximately 95.19 people per square kilometer.
+* **Population density:** These areas are relatively densely populated, with an average of approximately **95.19 people per square kilometer**.
 
-* **Wind conditions:** Wind speeds in these regions are slightly stronger, averaging 6.14 m/s at 100 meters above ground level. This makes them suitable for both wind renewable energy and wind microgrid installations.
+* **Wind conditions:** Wind speeds in these regions are slightly stronger, averaging **6.14 m/s at 100 meters above ground level**. This makes them suitable for both wind renewable energy and wind microgrid installations.
 
-* **Grid infrastructure:** The grid infrastructure is significantly limited, with an index value of 0.000096. Despite this limitation, the population density indicates high electricity demand, but the lack of transmission capacity underscores the need for decentralized energy solutions. These areas are most likely located in rural parts of the country.
+* **Grid infrastructure:** The grid infrastructure is significantly limited, with an index value of **0.000096**. Despite this limitation, the population density indicates high electricity demand, but the lack of transmission capacity underscores the need for decentralized energy solutions. These areas are most likely located in rural parts of the country.
 
-* **Economic considerations:** The average income distribution shows that approximately 42% of the population lives below the $2.15 poverty line, while about 48% represents profitable demand. This economic balance makes the regions attractive for private sector investments.
+* **Economic considerations:** The average income distribution shows that approximately **42% of the population lives below the $2.15 poverty line**, while about 48% represents profitable demand. This economic balance makes the regions attractive for private sector investments.
 
 ### Recommendations
 
