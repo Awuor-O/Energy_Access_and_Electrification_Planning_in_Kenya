@@ -32,13 +32,18 @@ The project utilized **Classification and Clustering Deep Learning Algorithms** 
 
 Ideal locations for wind renewable energy were those with sparse grid infrastructure, where electricity transmission is challenging due to limited grid coverage. These areas were further assessed for demand potential, determined by population density, to ensure that the generated energy would meet sufficient demand. Economic viability was also a key consideration, with average income levels of the target population factored in to ensure profitability that will attract private sector investments. Finally, high wind speeds, measured in meters per second (m/s), were crucial for efficient wind energy generation and were included as a primary criterion in the algorithms. 
 
-**Findings:**
+### Key Findings:
 
-The machine learning analysis identified regions suitable for microgrids to be relatively densely populated, with an average of approximately 95.19 people per square kilometer. These areas also experience slightly stronger wind conditions, with an average speed of 6.14 m/s at 100 meters above ground level, making them well-suited for wind farms and microgrid installations.
+The algorithms classified regions into two distinct groups based on their **viability for wind renewable energy and wind-powered microgrid installations**.
+Regions identified as viable for these installations exhibited the following characteristics:
 
-Grid infrastructures in these regions were found to be significantly limited. Given the region's population density, there is clearly a higher demand for electricity but limited transmission capacity.
+* **Population density:** These areas are relatively densely populated, with an average of approximately 95.19 people per square kilometer.
 
-Approximately 50% of the population lives below the $2.15 poverty line, highlighting the high likelihood of rural-to-urban migration and the urgent need for economic empowerment.
+* **Wind conditions:** Wind speeds in these regions are slightly stronger, averaging 6.14 m/s at 100 meters above ground level. This makes them suitable for both wind renewable energy and wind microgrid installations.
+
+* **Grid infrastructure:** The grid infrastructure is significantly limited, with an index value of 0.000096. Despite this limitation, the population density indicates high electricity demand, but the lack of transmission capacity underscores the need for decentralized energy solutions. These areas are most likely located in rural parts of the country.
+
+* **Economic considerations:** The average income distribution shows that approximately 42% of the population lives below the $2.15 poverty line, while about 48% represents profitable demand. This economic balance makes the regions attractive for private sector investments.
 
 ### Recommendations
 
