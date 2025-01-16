@@ -10,7 +10,7 @@ The **Rural Electrification Programme** in Kenya aimed to achieve universal elec
 ![image](https://github.com/user-attachments/assets/a878b19a-374c-4ede-8048-60fdab1aa26f)
 
 
-Private sector investments in demand-driven and reliable generation technologies are crucial for enhancing electricity generation capacity to meet the country’s growing demand. In alignment with the World Bank and African Development Bank's **[Mission 300](https://www.worldbank.org/en/programs/energizing-africa#:~:text=Mission%20300%3A%20Providing%20Access%20to,improving%20education%20and%20health%20services.)**, which aims to provide electricity access to 300 million people in Sub-Saharan Africa by 2030, this project leverages geospatial insights to inform energy planning and distribution in Kenya. This will scale up connectivity, which is a fundamental in addressing the country’s persistent development needs.
+Private sector investments in demand-driven and reliable generation technologies are crucial for enhancing electricity generation capacity to meet the country’s growing demand. In alignment with the World Bank and African Development Bank's **[Mission 300](https://www.worldbank.org/en/programs/energizing-africa#:~:text=Mission%20300%3A%20Providing%20Access%20to,improving%20education%20and%20health%20services.)**, which aims to provide electricity access to 300 million people in Sub-Saharan Africa by 2030, this project leverages geospatial insights to inform wind renewable energy planning and the distribution of wind-powered microgrids in Kenya. This will scale up electricity connectivity, which is a key fundamental in addressing the country’s persistent development needs.
 
 ### Problem Statement
 
