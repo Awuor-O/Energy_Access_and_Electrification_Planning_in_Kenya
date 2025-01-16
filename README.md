@@ -32,7 +32,7 @@ The project utilized **Classification and Clustering Deep Learning Algorithms** 
 
 Ideal locations for wind renewable energy were those with sparse grid infrastructure, where electricity transmission is challenging due to limited grid coverage. These areas were further assessed for demand potential, determined by population density, to ensure that the generated energy would meet sufficient demand. Economic viability was also a key consideration, with average income levels of the target population factored in to ensure profitability that will attract private sector investments. Finally, high wind speeds, measured in meters per second (m/s), were crucial for efficient wind energy generation and were included as a primary criterion in the algorithms. 
 
-### Key Findings:
+### Key Findings
 
 The algorithms classified regions into two distinct groups based on their **viability for wind renewable energy and wind-powered microgrid installations**.
 Regions identified as viable for these installations exhibited the following characteristics:
@@ -51,7 +51,7 @@ From this analysis, two key points emerge; the steadily growing demand for elect
 
 Based on these findings and analyses, the following recommendations are proposed to address Kenya's energy access and electrification challenges while capitalizing on its wind energy potential:
 
-**1. *Prioritize Wind Renewable Energy Development**
+**1. Prioritize Wind Renewable Energy Development**
 
 * Invest in wind farms and wind-powered microgrids in identified regions with strong wind energy potential, averaging 6.14 m/s at 100 meters above ground level. These regions also exhibit high electricity demand due to their population density of approximately 95.19 people per square kilometer and limited grid infrastructure.
 
