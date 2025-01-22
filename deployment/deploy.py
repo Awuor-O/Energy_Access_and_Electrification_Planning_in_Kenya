@@ -1,6 +1,5 @@
 import json
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 
 kmeans_df = pd.read_csv(r'C:\Users\pc\Documents\Projects\Energy_Access_and_Electrification_Planning_in_Kenya\deployment\kmeans.csv')
