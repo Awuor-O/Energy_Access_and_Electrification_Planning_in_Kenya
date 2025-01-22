@@ -1,14 +1,20 @@
+import os
 import json
 import pandas as pd
 import streamlit as st
 
-kmeans_df = pd.read_csv(r'C:\Users\pc\Documents\Projects\Energy_Access_and_Electrification_Planning_in_Kenya\deployment\kmeans.csv')
-with open(r'C:\Users\pc\Documents\Projects\Energy_Access_and_Electrification_Planning_in_Kenya\deployment\kenya.geojson') as f:
+kmeans_path = os.getenv('KMEANS_PATH')
+geojson_path = os.getenv('GEOJSON_PATH')
+
+kmeans_df = pd.read_csv(kmeans_path)
+with open(geojson_path) as f:
     kenya_geojson = json.load(f)
 
 # Separate data by cluster for easier plotting
 cluster_0 = kmeans_df[kmeans_df['Cluster'] == 0]
 cluster_1 = kmeans_df[kmeans_df['Cluster'] == 1]
+
+import plotly.express as px
 
 # Kenya's map
 fig = px.choropleth_mapbox(
