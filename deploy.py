@@ -22,6 +22,9 @@ cluster_1 = kmeans_df[kmeans_df['Cluster'] == 1]
 
 import plotly.express as px
 
+if isinstance(kenya_geojson, list):
+    kenya_geojson = {"type": "FeatureCollection", "features": kenya_geojson}
+
 # Kenya's map
 fig = px.choropleth_mapbox(
     geojson=kenya_geojson,
