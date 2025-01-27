@@ -1,13 +1,20 @@
 import os
 import json
 import pandas as pd
+import gdown
 import streamlit as st
 
-kmeans_path = os.getenv('KMEANS_PATH')
-geojson_path = os.getenv('GEOJSON_PATH')
+# Download kmeans.csv
+kmeans_url = 'https://drive.google.com/file/d/16XSXBJGGxrbOtRNGc0e3oFijwo5UZN-m/view?usp=sharing'
+gdown.download(kmeans_url, 'kmeans.csv', quiet=False)
 
-kmeans_df = pd.read_csv(kmeans_path)
-with open(geojson_path) as f:
+# Download kenya.geojson
+geojson_url = 'https://drive.google.com/file/d/1TwTR4N_hPOhynP6_vz45hN7qlSv_Le7a/view?usp=sharing'
+gdown.download(geojson_url, 'kenya.geojson', quiet=False)
+
+# Load files
+kmeans_df = pd.read_csv("kmeans.csv")
+with open("kenya.geojson") as f:
     kenya_geojson = json.load(f)
 
 # Separate data by cluster for easier plotting
