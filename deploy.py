@@ -5,11 +5,11 @@ import gdown
 import streamlit as st
 
 # Download kmeans.csv
-kmeans_url = 'https://drive.google.com/file/d/16XSXBJGGxrbOtRNGc0e3oFijwo5UZN-m/view?usp=sharing'
+kmeans_url = 'https://drive.google.com/uc?export=download&id=16XSXBJGGxrbOtRNGc0e3oFijwo5UZN-m'
 gdown.download(kmeans_url, 'kmeans.csv', quiet=False)
 
 # Download kenya.geojson
-geojson_url = 'https://drive.google.com/file/d/1TwTR4N_hPOhynP6_vz45hN7qlSv_Le7a/view?usp=sharing'
+geojson_url = 'https://drive.google.com/uc?export=download&id=1TwTR4N_hPOhynP6_vz45hN7qlSv_Le7a'
 gdown.download(geojson_url, 'kenya.geojson', quiet=False)
 
 # Load files
